@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
                 adapter=new MoviesAdapter(movies);
                 moviesList.setAdapter(adapter);
 
+
             }
 
             @Override
